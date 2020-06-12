@@ -1,0 +1,2 @@
+Prefix plugins/Gnuplot/example
+Plugin Gnuplot inputfile force.dat outputfile force.png
