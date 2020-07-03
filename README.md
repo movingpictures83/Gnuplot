@@ -1,7 +1,9 @@
+# Gnuplot
 # Language: C++
-# Input: TXT
+# Input: DAT
 # Output: PNG
-# Tested with: PluMA 1.0, GCC 4.8.4
+# Tested with: PluMA 1.1, GCC 4.8.4
+# Dependency: GNUPLOT 4.4
 
 PluMA plugin to plot data using Gnuplot (Williams and Kelley, 2011).
 
